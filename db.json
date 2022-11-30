@@ -1,20 +1,31 @@
 {
   "announcements": [
     {
-      "id": "1",
-      "title": "Testing",
-      "messageSummary": " Testing Items",
-      "messageDetail": "Details",
-      "liveSetting": "Yes",
-      "status": "Pending"
-    },
-    {
-      "id": "2",
-      "title": "Testing 2",
-      "messageSummary": " Testing Items 2",
-      "messageDetail": "Details 2",
-      "liveSetting": "Yes",
-      "status": "Pending"
+      "limit": 10,
+      "page": 0,
+      "totalElements": 2,
+      "totalPages": 1,
+      "numberOfElements": 2,
+      "content": [
+        {
+        "id": "1",
+        "title": "Testing",
+        "messageSummary": " Testing Items",
+        "messageDetail": "Details",
+        "liveSetting": "Yes",
+        "status": "Pending"
+        },
+        {
+          "id": "2",
+          "title": "Testing 2",
+          "messageSummary": " Testing Items 2",
+          "messageDetail": "Details 2",
+          "liveSetting": "Yes",
+          "status": "Pending"
+        }
+      ]
     }
   ]
 }
+      
+
