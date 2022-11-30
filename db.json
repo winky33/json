@@ -1,20 +1,20 @@
 {
   "announcements": [
     {
-      id: '1',
-      title: 'Testing',
-      messageSummary: " Testing Items",
-      messageDetail: 'Details',
-      liveSetting: 'Yes',
-      status: AnnouncementStatus.Pending,
+      "id": '1',
+      "title": 'Testing',
+      "messageSummary": " Testing Items",
+      "messageDetail": 'Details',
+      "liveSetting": 'Yes',
+      "status": AnnouncementStatus.Pending,
     },
     {
-      id: '2',
-      title: 'Testing 2',
-      messageSummary: " Testing Items 2",
-      messageDetail: 'Details 2',
-      liveSetting: 'Yes',
-      status: AnnouncementStatus.Pending,
+      "id": '2',
+      "title": 'Testing 2',
+      "messageSummary": " Testing Items 2",
+      "messageDetail": 'Details 2',
+      "liveSetting": 'Yes',
+      "status": AnnouncementStatus.Pending,
     },
   ],
 }
