@@ -6,7 +6,7 @@
       "messageSummary": " Testing Items",
       "messageDetail": "Details",
       "liveSetting": "Yes",
-      "status": "Pending",
+      "status": "Pending"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "messageSummary": " Testing Items 2",
       "messageDetail": "Details 2",
       "liveSetting": "Yes",
-      "status": "Pending",
-    },
-  ],
+      "status": "Pending"
+    }
+  ]
 }
